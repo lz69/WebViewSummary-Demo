@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewSummary-Demo</string>
+    <string name="tip_bn_use_js">调用js方法</string>
+</resources>
